@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768021781260",
+    "project_id": "flutter-news-hub-idoc",
+    "storage_bucket": "flutter-news-hub-idoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768021781260:android:ba763acacc0a7db2cfc729",
+        "android_client_info": {
+          "package_name": "com.example.flutter_news_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQwqGY34i76lIWaEtnwvkgU--vQYEnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
